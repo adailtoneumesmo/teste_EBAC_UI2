@@ -1,0 +1,30 @@
+[
+{
+    "nomeProduto": "Aero Daily Fitness Tee",
+    "tamanho": "L",
+    "cor": "Yellow",
+    "quantidade": 4
+},
+
+{
+    "nomeProduto": "Ajax Full-Zip Sweatshirt",
+    "tamanho": "M",
+    "cor": "Green",
+    "quantidade": 2
+},
+
+{
+    "nomeProduto": "Taurus Elements Shell",
+    "tamanho": "L",
+    "cor": "blue",
+    "quantidade": 9
+},
+
+{
+    "nomeProduto": "Geo Insulated Jogging Pant",
+    "tamanho": "36",
+    "cor": "Red",
+    "quantidade": 3
+}
+
+]

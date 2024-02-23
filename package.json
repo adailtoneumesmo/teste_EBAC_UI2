@@ -1,0 +1,19 @@
+{
+  "name": "teste-ebac-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run --browser chrome",
+    "cy:dash": "npx cypress run --record --key 6fd388e7-b762-4677-8ca6-9b220d0346f3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^5.5.3"
+  },
+  "devDependencies": {
+    "cypress": "^13.6.6"
+  }
+}

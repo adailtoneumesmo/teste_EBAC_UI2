@@ -59,7 +59,7 @@ context('Efetuar login', (() => {
 
     })
 
-    it.only('Deve fazer Login com sucesso - usando comando customizados', () => {
+    it('Deve fazer Login com sucesso - usando comando customizados', () => {
         cy.login('adailtoneumesmo@gmail.com' ,'Eumesmo@11060')
 
         cy.get('.page-title').should('contain', 'Minha conta')

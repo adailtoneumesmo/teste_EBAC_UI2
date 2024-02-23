@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "npx cypress run --browser chrome",
-    "cy:dash": "npx cypress run --record --key 6fd388e7-b762-4677-8ca6-9b220d0346f3"
+    "cy:dash": "npx cypress run --browser chrome --record --key 6fd388e7-b762-4677-8ca6-9b220d0346f3"
   },
   "keywords": [],
   "author": "",
